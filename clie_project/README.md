@@ -1,4 +1,4 @@
-# proyec_vue
+# clie_project
 
 ## Project setup
 ```
